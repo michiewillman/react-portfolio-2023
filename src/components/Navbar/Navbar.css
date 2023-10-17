@@ -1,0 +1,18 @@
+/* Navigation */
+.navlinks {
+  display: flex;
+  flex: wrap;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.navitem {
+  color: #dcdcde;
+  margin: 10px;
+  padding: 10px;
+}
+
+.navitem:hover {
+  background-color: #dcdcde;
+}
