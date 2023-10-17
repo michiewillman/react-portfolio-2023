@@ -14,6 +14,7 @@ function App() {
     { name: "Contact" },
   ]);
 
+  // Manage the state of the page react is loading
   const [currentPage, setCurrentPage] = useState(pages[0]);
 
   return (

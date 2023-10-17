@@ -7,11 +7,11 @@ import Contact from "../ContactForm/ContactForm";
 function Page({ currentPage }) {
   const renderPage = () => {
     switch (currentPage.name) {
-      case "about me":
+      case "About":
         return <About />;
-      case "portfolio":
+      case "Portfolio":
         return <Portfolio />;
-      case "contact":
+      case "Contact":
         return <Contact />;
       default:
         return <About />;

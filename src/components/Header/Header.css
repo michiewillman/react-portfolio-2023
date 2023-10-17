@@ -1,3 +1,28 @@
 header {
-  background-color: #647279;
+  background-color: var(--darker);
+  position: fixed;
+  width: 90%;
+  top: 20px;
+  border-radius: 50px;
+  padding: 0 20px 0 0;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid var(--darker);
+  transition: 0.5s;
+}
+
+header:hover {
+  border: 1px solid #43505a;
+  transition: 0.5s;
+}
+
+.headerLogo {
+  position: relative;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 0 0 40px;
+}
+
+.headerLogo h1 {
+  margin-bottom: -10px;
 }
