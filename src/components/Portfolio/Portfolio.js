@@ -13,9 +13,9 @@ function Portfolio() {
       image: "/images/somethingborrowed.png",
       details:
         "Something Borrowed is an application created to foster quality community connections while eliminating unnecessary consumer purchases through borrowing and lending everyday products. The app currently runs on community accountability, however the application has the potential to be upgraded to using fee-per-day rentals from locals in your neighborhood.",
-      link: "https://github.com",
+      link: "https://something-borrowed-app-2c8932a694d6.herokuapp.com/",
       hasRepo: true,
-      repo: "https://github.com",
+      repo: "https://github.com/michiewillman/something-borrowed",
     },
     {
       title: "CampAire",
@@ -26,9 +26,9 @@ function Portfolio() {
       image: "/images/somethingborrowed.png",
       details:
         "Something Borrowed is an application created to foster quality community connections while eliminating unnecessary consumer purchases through borrowing and lending everyday products. The app currently runs on community accountability, however the application has the potential to be upgraded to using fee-per-day rentals from locals in your neighborhood.",
-      link: "https://github.com",
+      link: "https://michiewillman.github.io/campaire-app/",
       hasRepo: true,
-      repo: "https://github.com",
+      repo: "https://github.com/michiewillman/campaire-app",
     },
     {
       title: "Flying Black Cat",
@@ -39,9 +39,8 @@ function Portfolio() {
       image: "/images/somethingborrowed.png",
       details:
         "For more about the legend of the Flying Black Cat visit www.flyingblackcat.com.",
-      link: "https://github.com",
+      link: "https://flyingblackcat.com/",
       hasRepo: false,
-      repo: "https://github.com",
     },
     {
       title: "Ariav Investments",
@@ -50,9 +49,8 @@ function Portfolio() {
       technologies: ["Node.js", "Express.js", "React"],
       image: "/images/somethingborrowed.png",
       details: "Ariav Investments",
-      link: "https://github.com",
+      link: "http://ariav.com/",
       hasRepo: false,
-      repo: "https://github.com",
     },
     {
       title: "Daily Schedule Manager",
@@ -62,9 +60,9 @@ function Portfolio() {
       technologies: ["Local Storage"],
       image: "/images/somethingborrowed.png",
       details: "Just type it in, and save it!",
-      link: "https://github.com",
+      link: "https://michiewillman.github.io/workday-scheduler/",
       hasRepo: true,
-      repo: "https://github.com",
+      repo: "https://github.com/michiewillman/workday-scheduler",
     },
   ]);
 
