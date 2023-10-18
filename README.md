@@ -49,6 +49,12 @@ To View the repository code, [click here.](https://github.com/michiewillman/reac
 
 <a id="Screenshot"></a>
 
+![Screenshot of the About page](/src/assets/about-page.jpg)
+
+![Screenshot of the Portfolio page](/src/assets/portfolio-page.jpg)
+
+![Screenshot of the Contact page](/src/assets/contact-page.jpg)
+
 ## License
 
 <a id="License"></a>
