@@ -59,6 +59,10 @@ main {
   flex-wrap: wrap;
 }
 
+.hidden {
+  display: none;
+}
+
 /* Buttons */
 .btn {
   font-family: "Montserrat", sans-serif;

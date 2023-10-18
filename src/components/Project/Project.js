@@ -1,3 +1,5 @@
+import "./Project.css";
+
 function Project({ project }) {
   // Pull in details from projects declared in Portfolio
   const {
@@ -14,11 +16,11 @@ function Project({ project }) {
 
   return (
     <div className="project-container" key={title}>
-      <div className="">
+      <div className="project-item">
         <img
-          src={require(`../../assets/projects/${title}.jpg`).default}
+          src={require(`../../assets/${image}`)}
           alt={title}
-          className="project-bg"
+          className="project-image"
         />
       </div>
       <div className="project-content">
@@ -27,12 +29,14 @@ function Project({ project }) {
         {/* <h4>Technologies used: {technologies}</h4> */}
         <p>{description}</p>
         <div className="project-buttons">
-          <a href={repo}>
-            <button>View {type}</button>
+          <a className="project-btn" href={link}>
+            <button className="btn">View {type}</button>
           </a>
-          <a href={repo}>
-            <button>View Repository Code</button>
-          </a>
+          {hasRepo && (
+            <a href={repo}>
+              <button className="btn">View Repository Code</button>
+            </a>
+          )}
         </div>
       </div>
     </div>

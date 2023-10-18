@@ -1,0 +1,12 @@
+#about-section {
+  display: flex;
+  flex: wrap;
+}
+
+.project-image {
+  width: 400px;
+}
+
+.about-details {
+  padding: 40px;
+}

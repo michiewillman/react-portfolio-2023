@@ -1,0 +1,19 @@
+.project-container {
+  width: 45%;
+  padding: 10px;
+  margin-bottom: 60px;
+}
+
+.project-image {
+  border-radius: 15px;
+}
+
+.project-btn {
+  margin-right: 10px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .project-container {
+    width: 100%;
+  }
+}
