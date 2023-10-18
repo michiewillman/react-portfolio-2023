@@ -7,6 +7,7 @@ function About() {
     <section>
       <div id="about-section">
         <div className="project-item">
+          {/* Render profile image based on profilePic variable */}
           <img
             src={require(`../../assets/${profilePic}`)}
             alt="michie willman, web developer portfolio"

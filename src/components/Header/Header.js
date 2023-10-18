@@ -8,6 +8,7 @@ function Header(props) {
         <h1>Michie Willman</h1>
         <p>Web Developer</p>
       </div>
+      {/* pass content props down to all children */}
       {props.children}
     </header>
   );

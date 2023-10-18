@@ -21,12 +21,14 @@ function App() {
     <div className="pageContainer">
       <Header>
         <Navbar
+          // Pass in the pages and state to control with navigation values
           pages={pages}
           setCurrentPage={setCurrentPage}
           currentPage={currentPage}
         ></Navbar>
       </Header>
       <main>
+        {/* Display the current page, controlled by the state we give to nav */}
         <Page currentPage={currentPage}></Page>
       </main>
       <Footer />

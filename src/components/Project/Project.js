@@ -17,6 +17,7 @@ function Project({ project }) {
   return (
     <div className="project-container" key={title}>
       <div className="project-item">
+        {/* Dynamically render project's image based on the details in props */}
         <img
           src={require(`../../assets/${image}`)}
           alt={title}
@@ -32,6 +33,7 @@ function Project({ project }) {
           <a className="project-btn" href={link}>
             <button className="btn">View {type}</button>
           </a>
+          {/* If project hasRepo = true, ender a repo button */}
           {hasRepo && (
             <a href={repo}>
               <button className="btn">View Repository Code</button>

@@ -69,6 +69,7 @@ function Portfolio() {
   return (
     <div>
       <div className="flex-row">
+        {/* For each project in the array, render a Project component with a unique key and pass the project details */}
         {projects.map((project, index) => (
           <Project project={project} key={"project" + index} />
         ))}

@@ -17,6 +17,7 @@ function Contact() {
   // Function to change value of inputs
   const handleInputChange = (event) => {
     if (event.target.name === "email") {
+      // Use middleware to ensure valid email address has been entered
       const isValid = validateEmail(event.target.value);
       if (!isValid) {
         setThrowErr("Invalid email address");
@@ -24,6 +25,7 @@ function Contact() {
         setThrowErr("");
       }
     } else {
+      // Error if an input field is not filled out
       if (!event.target.value.length) {
         setThrowErr(`${event.target.name} is required`);
       } else {
