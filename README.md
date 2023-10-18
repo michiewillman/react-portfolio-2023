@@ -41,7 +41,7 @@ npm start
 
 This application has been deployed to GitHub pages.
 
-To view it, [click here.](https://github.com/michiewillman/react-portfolio-2023)
+To view it, [click here.](https://michiewillman.github.io/react-portfolio-2023/)
 
 To View the repository code, [click here.](https://github.com/michiewillman/react-portfolio-2023)
 
