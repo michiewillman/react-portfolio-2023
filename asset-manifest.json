@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio-2023/static/css/main.4528769c.css",
-    "main.js": "/react-portfolio-2023/static/js/main.d585d128.js",
+    "main.css": "/react-portfolio-2023/static/css/main.f9dab91d.css",
+    "main.js": "/react-portfolio-2023/static/js/main.c02e71d6.js",
     "static/js/787.f736aafd.chunk.js": "/react-portfolio-2023/static/js/787.f736aafd.chunk.js",
     "static/media/flowerselfie.jpg": "/react-portfolio-2023/static/media/flowerselfie.81fa616fb1d759904fe2.jpg",
     "static/media/about-page.jpg": "/react-portfolio-2023/static/media/about-page.04916673a668169d5355.jpg",
@@ -18,13 +18,14 @@
     "static/media/somethingborrowed.jpg": "/react-portfolio-2023/static/media/somethingborrowed.3e86cba2ce6ed59ed707.jpg",
     "static/media/workdayscheduler.jpg": "/react-portfolio-2023/static/media/workdayscheduler.586b2d8d44e1a3d1bcc0.jpg",
     "static/media/contact-page.jpg": "/react-portfolio-2023/static/media/contact-page.7deb86f957a937a6e688.jpg",
+    "static/media/blizzardmg.jpg": "/react-portfolio-2023/static/media/blizzardmg.bcf6a366e54e03b46f29.jpg",
     "index.html": "/react-portfolio-2023/index.html",
-    "main.4528769c.css.map": "/react-portfolio-2023/static/css/main.4528769c.css.map",
-    "main.d585d128.js.map": "/react-portfolio-2023/static/js/main.d585d128.js.map",
+    "main.f9dab91d.css.map": "/react-portfolio-2023/static/css/main.f9dab91d.css.map",
+    "main.c02e71d6.js.map": "/react-portfolio-2023/static/js/main.c02e71d6.js.map",
     "787.f736aafd.chunk.js.map": "/react-portfolio-2023/static/js/787.f736aafd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4528769c.css",
-    "static/js/main.d585d128.js"
+    "static/css/main.f9dab91d.css",
+    "static/js/main.c02e71d6.js"
   ]
 }
