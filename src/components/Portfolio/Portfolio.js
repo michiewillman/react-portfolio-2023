@@ -24,11 +24,10 @@ function Portfolio() {
         "An Application built for people with Myasthenia Gravis to manage their medications and symptoms.",
       technologies: ["Node.js", "Express.js", "React"],
       image: "blizzardmg.jpg",
-      details:
-        "Something Borrowed is an application created to foster quality community connections while eliminating unnecessary consumer purchases through borrowing and lending everyday products. The app currently runs on community accountability, however the application has the potential to be upgraded to using fee-per-day rentals from locals in your neighborhood.",
-      link: "https://michiewillman.github.io/campaire-app/",
+      details: "",
+      link: "https://blizzard-mg-2139349e4552.herokuapp.com/",
       hasRepo: true,
-      repo: "https://github.com/michiewillman/campaire-app",
+      repo: "https://github.com/michiewillman/mgapp",
     },
     {
       title: "CampAire",
