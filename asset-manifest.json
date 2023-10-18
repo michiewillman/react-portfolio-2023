@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-2023/static/css/main.4528769c.css",
+    "main.js": "/react-portfolio-2023/static/js/main.d585d128.js",
+    "static/js/787.f736aafd.chunk.js": "/react-portfolio-2023/static/js/787.f736aafd.chunk.js",
+    "static/media/flowerselfie.jpg": "/react-portfolio-2023/static/media/flowerselfie.81fa616fb1d759904fe2.jpg",
+    "static/media/about-page.jpg": "/react-portfolio-2023/static/media/about-page.04916673a668169d5355.jpg",
+    "static/media/portfolio-page.jpg": "/react-portfolio-2023/static/media/portfolio-page.9d6e5fbbb7aa1e1cfb65.jpg",
+    "static/media/campaire.jpg": "/react-portfolio-2023/static/media/campaire.a7584d68ddcfe6149f26.jpg",
+    "static/media/flyingblackcat.jpg": "/react-portfolio-2023/static/media/flyingblackcat.c18a85519938ece46cc8.jpg",
+    "static/media/ariavmock.jpg": "/react-portfolio-2023/static/media/ariavmock.279c7d829bb4532dc250.jpg",
+    "static/media/rocknreel.jpg": "/react-portfolio-2023/static/media/rocknreel.5d213b79f0a4a80f0a28.jpg",
+    "static/media/befloat.jpg": "/react-portfolio-2023/static/media/befloat.5517ae65f7176809115e.jpg",
+    "static/media/befloatmock.jpg": "/react-portfolio-2023/static/media/befloatmock.3fc8267a0a5c1b5f75a2.jpg",
+    "static/media/rocknreelmob.jpg": "/react-portfolio-2023/static/media/rocknreelmob.10d36241099cd79a3cf1.jpg",
+    "static/media/codesample.jpg": "/react-portfolio-2023/static/media/codesample.b7c98e51c51f5017f38f.jpg",
+    "static/media/flyingblackcatmock.jpg": "/react-portfolio-2023/static/media/flyingblackcatmock.d5600ae3554fee3593d7.jpg",
+    "static/media/somethingborrowed.jpg": "/react-portfolio-2023/static/media/somethingborrowed.3e86cba2ce6ed59ed707.jpg",
+    "static/media/workdayscheduler.jpg": "/react-portfolio-2023/static/media/workdayscheduler.586b2d8d44e1a3d1bcc0.jpg",
+    "static/media/contact-page.jpg": "/react-portfolio-2023/static/media/contact-page.7deb86f957a937a6e688.jpg",
+    "index.html": "/react-portfolio-2023/index.html",
+    "main.4528769c.css.map": "/react-portfolio-2023/static/css/main.4528769c.css.map",
+    "main.d585d128.js.map": "/react-portfolio-2023/static/js/main.d585d128.js.map",
+    "787.f736aafd.chunk.js.map": "/react-portfolio-2023/static/js/787.f736aafd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4528769c.css",
+    "static/js/main.d585d128.js"
+  ]
+}
